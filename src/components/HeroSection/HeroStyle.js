@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import _default from "../../themes/default";
 
-export const HeroContainer = styled.div`
+export const HeroContainer = styled.div `
   background: ${({ theme }) => theme.card_light};
   display: flex;
   justify-content: center;
@@ -18,7 +18,7 @@ export const HeroContainer = styled.div`
   clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 95%, 0 100%);
 `;
 
-export const HeroBg = styled.div`
+export const HeroBg = styled.div `
   position: absolute;
   display: flex;
   justify-content: end;
@@ -42,7 +42,7 @@ export const HeroBg = styled.div`
   }
 `;
 
-export const HeroInnerContainer = styled.div`
+export const HeroInnerContainer = styled.div `
   position: relative;
   display: flex;
   justify-content: space-between;
@@ -54,7 +54,7 @@ export const HeroInnerContainer = styled.div`
     flex-direction: column;
   }
 `;
-export const HeroLeftContainer = styled.div`
+export const HeroLeftContainer = styled.div `
   width: 100%;
   order: 1;
   @media (max-width: 960px) {
@@ -74,7 +74,7 @@ export const HeroLeftContainer = styled.div`
   }
 `;
 
-export const HeroRightContainer = styled.div`
+export const HeroRightContainer = styled.div `
   width: 100%;
   display: flex;
   order: 2;
@@ -92,7 +92,7 @@ export const HeroRightContainer = styled.div`
   }
 `;
 
-export const Img = styled.img`
+export const Img = styled.img `
   position: relative;
   width: 100%;
   height: 100%;
@@ -112,7 +112,7 @@ export const Img = styled.img`
   }
 `;
 
-export const Title = styled.div`
+export const Title = styled.div `
   font-weight: 700;
   font-size: 50px;
   color: ${({ theme }) => theme.text_primary};
@@ -128,7 +128,7 @@ export const Title = styled.div`
   }
 `;
 
-export const TextLoop = styled.div`
+export const TextLoop = styled.div `
   font-weight: 600;
   font-size: 32px;
   display: flex;
@@ -145,12 +145,12 @@ export const TextLoop = styled.div`
   }
 `;
 
-export const Span = styled.span`
+export const Span = styled.span `
   color: ${({ theme }) => theme.primary};
   cursor: pointer;
 `;
 
-export const SubTitle = styled.div`
+export const SubTitle = styled.div `
   font-size: 20px;
   line-height: 32px;
   margin-bottom: 42px;
@@ -166,7 +166,7 @@ export const SubTitle = styled.div`
   }
 `;
 
-export const ResumeButton = styled.a`
+export const ResumeButton = styled.a `
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
@@ -181,10 +181,10 @@ export const ResumeButton = styled.a`
     font-size: 20px;
     font-weight: 600;
     transition: all 0.2s ease-in-out !important;
-    background: hsla(271, 100%, 50%, 1);
-    background: linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    background: -moz-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    background: -webkit-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
+    background: hsla(24, 100%, 41%, 1);
+    background: linear-gradient(225deg, hsla(24, 100%, 41%, 1) 0%, hsla(31, 60%, 73%, 1) 100%);
+    background: -moz-linear-gradient(225deg, hsla(24, 100%, 41%, 1) 0%, hsla(31, 60%, 73%, 1) 100%);
+    background: -webkit-linear-gradient(225deg, hsla(24, 100%, 41%, 1) 0%, hsla(31, 60%, 73%, 1) 100%);
     box-shadow:  20px 20px 60px #1F2634,
     -20px -20px 60px #1F2634;
     &:hover {
