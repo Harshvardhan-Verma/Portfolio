@@ -9,7 +9,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="959" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/250583e2-2be3-47df-b959-8ffacd59987b">
 <img width="960" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/d40b9912-3a66-4303-9384-f52fb8caffaa">
 
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
 
 
 ## Table of Contents
@@ -43,7 +42,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/rishavchanda/rishav-chanda-portfolio.git`
-2. Navigate to the project directory: `cd rishav-chanda-portfolio`
+2. Navigate to the project directory: `cd portfolio`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
@@ -60,5 +59,4 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 4. Push to the branch: `git push origin my-feature`
 5. Open a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
