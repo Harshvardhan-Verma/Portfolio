@@ -4,11 +4,11 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Some Images:
 <img width="956" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/090171a4-2d4b-441b-9062-5904904a1db7">
+<img width="960" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/b287c023-9e50-4a62-844b-3aed23e45769">
+<img width="960" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/f9db320f-7f08-4c23-a4d0-aeb7c9a1624b">
+<img width="959" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/250583e2-2be3-47df-b959-8ffacd59987b">
+<img width="960" alt="image" src="https://github.com/Harshvardhan-Verma/Portfolio/assets/88719299/d40b9912-3a66-4303-9384-f52fb8caffaa">
 
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
 <img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
 
 
